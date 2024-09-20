@@ -1,3 +1,4 @@
+# 💫 About Me:
 ## Hi there 👋
 Welcome to my GitHub profile! I'm Gifty, a passionate **Web Developer** with a background as an **Industriekauffrau (IHK)**. 
 I'm currently focusing on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js). 
