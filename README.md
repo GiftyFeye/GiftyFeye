@@ -15,7 +15,8 @@ I love building clean, user-friendly websites and applications while continuousl
 
 ## Projects
 - **Click to visit**: [https://myshetowel.com]: An e-commerce site with Shopify and custom JavaScript.
-- **Click to visit**: [https://fbw-23-e10.github.io/Gifty_company-page/]: A private jet company Website (Front-End)
+- **Click to visit**: [https://fbw-23-e10.github.io/Gifty_company-page/]: A private jet company Website (Front-End).
+- **Click to visit**:[https://giftyfeye.github.io/Bootstrap-project/]: A simple webpage build from scratch using Bootstrap.
 - Will be adding more, currently in the works...
 
 # 💻 Tech Stack:
