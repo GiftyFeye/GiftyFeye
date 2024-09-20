@@ -1,3 +1,5 @@
+<img src="Github MinimaL Banner.png" alt="Alt text" width=""/>
+ 
 # 💫 About Me:
 ## Hey 👋
 Welcome to my GitHub profile! I'm Gifty, a passionate **Web Developer** with a background as an **Industriekauffrau (IHK)**. 
