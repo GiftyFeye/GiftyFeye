@@ -1,4 +1,4 @@
-<img src="Github MinimaL Banner.png" alt="Alt text" width=""/>
+<img src="[Github MinimaL Banner.png" alt="Alt text" width=""/>
  
 # 💫 About Me:
 ## Hey 👋
