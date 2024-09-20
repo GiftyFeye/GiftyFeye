@@ -1,12 +1,13 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm Gifty, a passionate **Web Developer** with a background in **Industriekauffrau (IHK)**. I'm currently focusing on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js). I love building clean, user-friendly websites and applications while continuously expanding my skills in web technologies.
+Welcome to my GitHub profile! I'm Gifty, a passionate **Web Developer** with a background as an **Industriekauffrau (IHK)**. I'm currently focusing on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js). 
+I love building clean, user-friendly websites and applications while continuously expanding my skills in web technologies.
 
 ## Skills
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Tools**: Git, Figma, Scrum
-- **Other**: Video Editing, Amazon FBA, PPC, Shopify
+- **Tools**: Git, Figma, Scrum, Excalidraw
+- **Other**: Video Editing, Youtube, Amazon FBA, PPC, Shopify
 
 ## Projects
 - **Project 1**: [https://myshetowel.com]: An e-commerce site with Shopify and custom JavaScript
