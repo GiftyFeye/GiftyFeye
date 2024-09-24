@@ -11,7 +11,7 @@ I love building clean, user-friendly websites and applications while continuousl
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Tools**: Git, Figma, Scrum, Excalidraw
-- **Other**: Video Editing, Youtube, Amazon FBA, PPC, Shopify
+- **Other**: Video Editing, Youtube, Amazon FBA, Shopify
 
 ## Projects
 - **Click to visit**: [https://myshetowel.com]: An e-commerce site with Shopify and custom JavaScript.
