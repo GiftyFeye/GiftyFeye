@@ -24,7 +24,7 @@ I love building clean, user-friendly websites and applications while continuousl
 
 [![](https://visitcount.itsvg.in/api?id=GiftyFeye&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## Get in touch
-- **LinkedIn**: [[[github.com/GiftyFeye](https://www.linkedin.com/in/giftyfeye/)](https://linkedin.com/in/giftyfeye/](https://github.com/GiftyFeye)
+- **LinkedIn**: [[linkedIn.com/giftyfeye](https://www.linkedin.com/in/giftyfeye/)]
 - **Email**: gifty.feye@gmail.com
 - **GitHub**: [github.com/GiftyFeye](https://github.com/GiftyFeye)
 
