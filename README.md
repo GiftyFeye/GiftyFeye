@@ -12,8 +12,6 @@ I love building clean, user-friendly websites and applications while continuousl
 - **Database**: MongoDB
 - **Tools**: Git, Figma, Scrum, Excalidraw
 - **Other**: Video Editing, Youtube, Amazon FBA, Shopify
-
-- <iframe src="https://api.eu.badgr.io/public/assertions/8ObGmHA8SQ-IQCbbNbE5sA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=gifty.feye%40dci-student.org" style="width: 330px; height: 191px; border: 0px;" title="Badge: Single Page Application Developer"></iframe>
   
 ## Projects
 - **Click to visit**: [https://myshetowel.com]: An e-commerce site with Shopify and custom JavaScript.
