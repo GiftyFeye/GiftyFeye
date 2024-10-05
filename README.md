@@ -14,6 +14,7 @@ I love building clean, user-friendly websites and applications while continuousl
 - **Other**: Video Editing, Youtube, Amazon FBA, Shopify
   
 ## Projects
+- **Click to visit**: [https://giftyfeye.github.io/Gifty-Feye/]: My personal website to showcase my projects
 - **Click to visit**: [https://myshetowel.com]: An e-commerce site with Shopify and custom JavaScript.
 - **Click to visit**: [https://fbw-23-e10.github.io/Gifty_company-page/]: A private jet company Website (Front-End).
 - **Click to visit**:[https://giftyfeye.github.io/Bootstrap-project/]: A simple webpage build from scratch using Bootstrap.
